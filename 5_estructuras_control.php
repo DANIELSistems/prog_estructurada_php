@@ -39,6 +39,7 @@
         {
             echo "Numero: ". $x. "<br>";
         }
+    ?>
 
 
 </body>
